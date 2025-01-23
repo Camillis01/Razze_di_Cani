@@ -3,6 +3,8 @@
 
 This project focuses on classifying dog breeds using a Convolutional Neural Network (CNN) trained on a preprocessed dataset. It leverages TensorFlow and Keras for model development and training. The project includes several phases from data preprocessing to evaluation.
 
+HERE THE LINK TO DOWNLOAD THE DATASET: https://drive.google.com/drive/folders/1FUGYqpyxRasT9CMEvM2uHtNIdh16BCPT?usp=sharing
+
 ## Project Structure
 
 - `annotations/`: Contains metadata for the dataset.  
